@@ -21,7 +21,7 @@ def getRandomFortune():
     fortune=[
         "I see much code in your future",
         "Consider eating more fortune cookies",
-        "aaaaaaaaaaaaa"
+        "Hope having a nice job! ;)"
     ]
     index=random.randint(0, 2)
     return fortune[index]
